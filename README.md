@@ -300,7 +300,7 @@ Test sınıfları oluşturmak için `src/test/java/com/mustafa/CVMaker/` dizinin
 **Mustafa**
 
 - GitHub: [@mustfasahin](https://github.com/mustfasahin)
-- Email: mustafa@example.com
+- Email: mstfasahn94@gmail.com
 
 ## 🙏 Teşekkürler
 
